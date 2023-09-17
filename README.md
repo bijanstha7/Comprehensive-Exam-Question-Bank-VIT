@@ -24,4 +24,4 @@ BPI
 ## Disclaimer
 
 * For educational purposes only.
-* jacob5412/comprehensive-VIT is licensed under the Creative Commons Zero v1.0 Universal
+
